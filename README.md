@@ -48,8 +48,8 @@ The dashboard enables users to:
 ![Dashboard Preview]
 (https://app.powerbi.com/links/9U1lRTUjcM?ctid=42f1fe4d-618b-41ab-bfe1-f6ae6c230744&pbi_source=linkShare)
 
+![image](https://github.com/user-attachments/assets/d4f74e7e-69c6-49ef-87e3-82d92a76b080)
 
-![Uploading image.png…]()
 
 ## 🛠️ Setup
 
