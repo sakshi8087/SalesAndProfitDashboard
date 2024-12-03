@@ -48,6 +48,9 @@ The dashboard enables users to:
 ![Dashboard Preview]
 (https://app.powerbi.com/links/9U1lRTUjcM?ctid=42f1fe4d-618b-41ab-bfe1-f6ae6c230744&pbi_source=linkShare)
 
+
+![Uploading image.png…]()
+
 ## 🛠️ Setup
 
 1. Download the `.pbix` file from this repository.
